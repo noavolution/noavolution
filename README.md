@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @noavolution
+- 👀 I’m interested in Linux, FOSS, C++
